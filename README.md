@@ -13,7 +13,13 @@ Email Me 👉 ✉️ **nitingupta8841@gmail.com** For Collaboration/Project or A
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-- 
+-
+# ![GIF](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9(1).gif)
+# ![GIF](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9(1).gif)
+##  Hello [](#--gifs-for-readme--)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello"> <br>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nitin Gupta ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nitinnn__25_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NITIN GUPTA) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nitin Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitingupta8841@gmail.com) 
 
