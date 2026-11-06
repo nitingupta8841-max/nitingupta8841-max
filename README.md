@@ -9,13 +9,16 @@ Email Me 👉 ✉️ **nitingupta8841@gmail.com** For Collaboration/Project or A
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -
 
-##  Hello [](#--gifs-for-readme--)
+<p align="center">
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9%20(1).gif" width="100%" alt="GitHub Banner">
+</p>
+
 <div align="left">
 
 <img src="https://camo.githubusercontent.com/e832af8144482d61654e53896abd6c2d1fecc67ef39663b8fceac43a2e38adcc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966"
@@ -44,6 +47,11 @@ Email Me 👉 ✉️ **nitingupta8841@gmail.com** For Collaboration/Project or A
 
 ---
 [![](https://komarev.com/ghpvc/?username=nitingupta8841-max&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👾 My Journey Begins with "Hello World!"
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1ieDBldjZxZjRyMDh5djh6YnQ5YzU5MzBrNTJzNHJ6MTByZ3VmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uuh6Gl2ijHZNFmBNBB/giphy.gif" width="400"/>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 &nbsp;`$ watch contrib --snake`
@@ -61,6 +69,10 @@ Email Me 👉 ✉️ **nitingupta8841@gmail.com** For Collaboration/Project or A
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
 <br/><br/>
+
+## 💻 Tech Stack & Tools
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,dotnet,php,angular,flutter,mui,firebase,mysql,sqlite,git,github,vscode,visualstudio,androidstudio,eclipse,postman,windows,cloudflare,python)
 
 > *"In a world full of GUIs, be a CLI."* 🖤
 >
