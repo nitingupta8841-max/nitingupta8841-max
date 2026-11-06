@@ -28,7 +28,13 @@ Email Me 👉 ✉️ **nitingupta8841@gmail.com** For Collaboration/Project or A
 </div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello"> <br>
+## Firework Animations
 
+| **#[Firework](AnimationExamples/Animations/FireworkCenter)** |
+| --- |
+| <img src="https://user-images.githubusercontent.com/35576161/227872111-01d7348c-06d0-4749-840a-73722116e531.gif" width="400"/> |
+
+<br/>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nitin Gupta ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nitinnn__25_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NITIN GUPTA) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nitin Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitingupta8841@gmail.com) 
 
