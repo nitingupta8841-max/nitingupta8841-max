@@ -34,3 +34,34 @@ Email Me 👉 ✉️ **nitingupta8841@gmail.com** For Collaboration/Project or A
 [![](https://komarev.com/ghpvc/?username=nitingupta8841-max&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 &nbsp;`$ watch contrib --snake`
+
+<div align="center">
+
+![snake gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
+<br/><br/>
+
+> *"In a world full of GUIs, be a CLI."* 🖤
+>
+> **Always learning &nbsp;·&nbsp; Always shipping &nbsp;·&nbsp; Always automating**
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+&nbsp; *Let's connect and build something amazing!* &nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:050a0e&height=130&section=footer&animation=fadeIn" width="100%"/>
